@@ -64,6 +64,7 @@ fieldset{
 
 .legend{
     text-align: center;
+    border-style: solid;
 }
 
 .ol1{
